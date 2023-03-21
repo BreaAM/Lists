@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+  <title>Lists</title>
 <h1>An Unordered HTML List</h1>
 <ul>
   <li>Coffee</li>
